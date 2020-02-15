@@ -28,6 +28,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Release History
 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/FABJNR/vidly-api/tags).
+
+* 0.1.1
+    * CHANGE: Project restructuring
 * 0.1.0
     * Build the Genres API
 
@@ -40,5 +44,5 @@ These instructions will get you a copy of the project up and running on your loc
 This project is licensed under the MIT License - see [LICENSE](https://github.com/FABJNR/vidly-api/blob/master/LICENSE) for more information.
 
 <!-- Markdown link & img dfn's -->
-[version-image]: https://img.shields.io/badge/version-v0.1.0-informational?style=flat-square
+[version-image]: https://img.shields.io/badge/version-v0.1.1-informational?style=flat-square
 [license-image]: https://img.shields.io/badge/license-MIT-green?style=flat-square
